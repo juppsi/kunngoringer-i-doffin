@@ -32,8 +32,7 @@ vi lagret filen på [DropBox](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l
 
 Dataproduktet er laget i analyseverktøyet [Tableau](https://www.tableau.com/why-tableau/what-is-tableau). Dette er et analyseverktøy som henter inn og analyserer data. Dette BI-verktøyet brukes for blant annet å lage dynamiske dashboard. Dataproduktet baserer seg på de vaskede kunngjøring- og enhetsregister [dataene](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z/h?dl=0&rlkey=vnk4mp5i0sr72fngcs8rfnkko). 
 
-Verktøyet gir en oversikt over utviklingen og utbredelsen av kunngjøringer, samt utbredelsen av kunngjøringer i Norge. Hensikten med verktøyet er å gi interessentene (ledere, innkjøpere, allmenheten) styringsinformasjon
-om kunngjøringer.
+Verktøyet gir en oversikt over utviklingen og utbredelsen av kunngjøringer i Norge. Hensikten med verktøyet er å gi interessentene (ledere, innkjøpere, allmenheten) styringsinformasjon om kunngjøringer.
 
 
 
