@@ -20,8 +20,8 @@ Viser koblingen mellom datasettene, se
 * [Filen kunngjøringer](https://github.com/juppsi/kunngoringer-i-doffin/blob/main/src/kunngjoringer.py) laster ned og vasker kunngjøringsdataene. Deretter lagres dette som en csv-fil.
 * [Filen enhetsregister](https://github.com/juppsi/kunngoringer-i-doffin/blob/main/src/enhetsregister.py) laster ned og vasker enheter- og underenheter dataene. Sammenstiller dem som et enhetstregister datasett. Deretter lagres dette som en csv-fil.
 
-Merk at inneholdet i output filene kan endre seg da enhetsregisterdataene kan endre seg. Grunnet størrelsen på enhetsregister-output filen som er større enn 100 MB, grense som GitHub takler, har 
-vi lagt filen på [DropBox](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z/h?dl=0&rlkey=vnk4mp5i0sr72fngcs8rfnkko). 
+Merk at inneholdet i output filene kan endre seg da enhetsregisterdataene kan endre seg. Størrelsen på enhetsregister-output filen er større enn 100 MB, som oversiger filstørrelse grensen til GitHub. Derav har 
+vi lagret filen på [DropBox](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z/h?dl=0&rlkey=vnk4mp5i0sr72fngcs8rfnkko), som er anbefalt applikasjon av GitHub.
 
 ## Nedlastninger
 
@@ -30,7 +30,10 @@ vi lagt filen på [DropBox](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z
 
 ## Dataprodukt
 
-Dataproduktet er laget i analyseverktøyet [Tableau](https://www.tableau.com/why-tableau/what-is-tableau). Dette er et analyseverktøy som henter inn og analyserer data. Dette BI-verktøyet brukes for blant annet å lage dynamiske dashboard. Dataproduktet kobler sammen de vaskede kunngjøring- og enhetsregister [filene](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z/h?dl=0&rlkey=vnk4mp5i0sr72fngcs8rfnkko).
+Dataproduktet er laget i analyseverktøyet [Tableau](https://www.tableau.com/why-tableau/what-is-tableau). Dette er et analyseverktøy som henter inn og analyserer data. Dette BI-verktøyet brukes for blant annet å lage dynamiske dashboard. Dataproduktet baserer seg på de vaskede kunngjøring- og enhetsregister [dataene](https://www.dropbox.com/scl/fo/u4swhs7pzhso6neuj9l6z/h?dl=0&rlkey=vnk4mp5i0sr72fngcs8rfnkko). 
+
+Verktøyet gir en oversikt over utviklingen og utbredelsen av kunngjøringer, samt utbredelsen av kunngjøringer i Norge. Hensikten med verktøyet er å gi interessentene (ledere, innkjøpere, allmenheten) styringsinformasjon
+om kunngjøringer.
 
 
 
