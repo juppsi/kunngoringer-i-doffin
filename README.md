@@ -13,7 +13,9 @@ Doffin er den nasjonale kunngjøringsdatabasen for kunngjøring av offentlige an
 
 ## Datamodell
 
-Viser koblingen mellom datasettene, se 
+[Datamodellen](https://github.com/juppsi/kunngoringer-i-doffin/blob/main/datamodell/enhetsregister-kunngjoringer-datamodell.png) viser koblingen mellom enheter, underenheter og kunngjøringsdataene. 
+
+Dette er modellert i [Gliffy](https://www.gliffy.com/) og eksportert som png-fil. 
 
 ## Kildekode
 
