@@ -7,6 +7,7 @@ Deretter slår vi sammene disse to datasettene (dataframene) til en dataframe og
 
 Les mer om datasettene: https://data.norge.no/datasets/68d08f28-a16d-4fab-a953-ed4ab08ce2e2
 Dokumentasjon om api-ene: https://data.brreg.no/enhetsregisteret/api/docs/index.html
+Dokumentasjon om dataene: https://www.brreg.no/produkter-og-tjenester/apne-data/beskrivelse-av-tjenesten-data-fra-enhetsregisteret/
 '''
 
 import pandas as pd
